@@ -173,7 +173,6 @@ namespace UnityStandardAssets.Characters.ThirdPerson
 				m_IsGrounded = false;
 				m_Animator.applyRootMotion = false;
 				m_GroundCheckDistance = 0.1f;
-				m_IsGrounded = true;
 			}
 		}
 

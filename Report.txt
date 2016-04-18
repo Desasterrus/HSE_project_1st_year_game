@@ -1,0 +1,18 @@
+Отчёт по проекту на 19.04.16
+
+Концепт проекта 
+
+https://docs.google.com/document/d/1kfSMBsc0XLczW1tPR0abmsz7nV_SvvhEy2bAz86HkB0/edit?usp=sharing
+
+План разработки 
+
+https://docs.google.com/spreadsheets/d/1ZppQf0zixEReRIH1ZFMjnUieCNTTDc7yc_ax4_lwt1o/edit?usp=sharing
+
+To do:
+1) Доделать нормально управление
+
+2) Сделать меню старта, сделать финиш
+
+3) Сделать звуки
+
+4) Добавить новую карту, может, какие-то испытания
